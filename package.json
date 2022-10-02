@@ -41,10 +41,14 @@
   },
   "dependencies": {
     "axios": "^0.27.2",
+    "firebase": "^9.10.0",
+    "immer": "^9.0.15",
     "jquery": "^3.6.1",
     "lodash.debounce": "^4.0.8",
     "react": "^18.2.0",
+    "react-beautiful-dnd": "^13.1.1",
     "react-dom": "^18.2.0",
+    "react-draggable": "^4.4.5",
     "react-router": "^6.4.0"
   }
 }

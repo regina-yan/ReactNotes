@@ -11,3 +11,12 @@ body, html {
     background-repeat: no-repeat;
     background-size: contain;
   }
+
+  .card {
+    background: white;
+    height: 200px;
+    width: 200px;
+  }
+  .contents_container{
+    display: flex;
+  }
